@@ -4,7 +4,7 @@
 ![Profile Stars](https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/notaestheticallyducko)
 ![Profile Forks](https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/notaestheticallyducko)
 
-📩 ・ **Want to reach? Add [@duckodas](https://discord.com/users/711712752246325343) on [Discord](https://discord.gg/75QR5duadJ)**
+📩 ・ **Want to reach? Add [@notaestheticallyducko](https://discord.com/users/711712752246325343) on [Discord](https://discord.gg/75QR5duadJ)**
 
 Hello there! 👋 Welcome to my GitHub profile. I'm thrilled to have you here. This README will give you a glimpse into my coding journey, the organizations I'm a part of, and some of the significant projects I've been working on. Feel free to explore, fork, and contribute to any of the projects you find interesting.
 
