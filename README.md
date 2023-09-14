@@ -1,8 +1,8 @@
 # Welcome to Ducko's GitHub Profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=DuckoDas&style=for-the-badge)
-![Profile Stars](https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DuckoDas)
-![Profile Forks](https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/DuckoDas)
+![Profile Views](https://komarev.com/ghpvc/?username=notaestheticallyducko&style=for-the-badge)
+![Profile Stars](https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/notaestheticallyducko)
+![Profile Forks](https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/notaestheticallyducko)
 
 📩 ・ **Want to reach? Add [@duckodas](https://discord.com/users/711712752246325343) on [Discord](https://discord.gg/75QR5duadJ)**
 
