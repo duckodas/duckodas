@@ -58,7 +58,7 @@ Here are some of the significant projects I've worked on. Each project has been 
 If you find my work valuable and would like to support me, you can do so through the following platforms:
 
 [![PayPal](https://img.shields.io/badge/Paypal-Donate?style=for-the-badge&logo=paypal&label=Donate&color=008cd4)](https://paypal.me/sapphiredevs)
-[![Ko-fi](https://img.shields.io/badge/Kofi-Support?style=for-the-badge&logo=kofi&label=Support&color=ff5e5b)](https://ko-fi.com/J3J1FVEH0)
+[![Ko-fi](https://img.shields.io/badge/Kofi-Support?style=for-the-badge&logo=kofi&label=Support&color=ff5e5b)](https://ko-fi.com/notaestheticallyducko)
 
 ## Let's Connect
 
