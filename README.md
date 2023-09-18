@@ -20,7 +20,7 @@ I'm a passionate developer who loves to create meaningful and innovative solutio
 - **Role:** Lead Developer & Founder
 - **Duration:** 01/04/23 - Present
 
-Sapphire Developers is a team of dedicated bot developers specializing in Discord bots and web bots. Our mission is to create brilliant, intelligent, and trustworthy solutions that enhance user experiences. We chose the name "Sapphire Developers" to reflect our commitment to excellence and the qualities associated with the precious gemstone, such as brilliance, wisdom, and trust.
+Sapphire Development is a team of dedicated bot developers specializing in Discord bots and web bots. Our mission is to create brilliant, intelligent, and trustworthy solutions that enhance user experiences. We chose the name "Sapphire Development" to reflect our commitment to excellence and the qualities associated with the precious gemstone, such as brilliance, wisdom, and trust.
 
 ### [Good Vibes Only](https://github.com/gvobot)
 
