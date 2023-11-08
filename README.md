@@ -1,13 +1,13 @@
 # My GitHub Profile
 
-[![Profile Views](https://komarev.com/ghpvc/?username=NotAestheticallyDucko)](https://github.com/NotAestheticallyDucko)
+[![Profile Views](https://komarev.com/ghpvc/?username=duckodas)](https://github.com/duckodas)
 
 Welcome to my GitHub profile! Feel free to explore my repositories.
 
 ## My Stats
 
-[![GitHub followers](https://img.shields.io/github/followers/NotAestheticallyDucko?label=Followers&style=social)](https://github.com/NotAestheticallyDucko)
-[![GitHub stars](https://img.shields.io/github/stars/NotAestheticallyDucko?label=Stars&style=social)](https://github.com/NotAestheticallyDucko)
+[![GitHub followers](https://img.shields.io/github/followers/duckodas?label=Followers&style=social)](https://github.com/duckodas)
+[![GitHub stars](https://img.shields.io/github/stars/duckodas?label=Stars&style=social)](https://github.com/duckodas)
 
 ## Notable Repositories
 
