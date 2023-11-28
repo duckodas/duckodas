@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories.
 ## Notable Repositories
 
 - [DiscoBots](https://github.com/ProjectDiscord/discobots)
-- [Good Vibes Only - Bot](https://github.com/gvobot/bot)
+- [Good Vibes Only - Bot](https://github.com/gvobot/discord)
 
 ## Contact Me
 
