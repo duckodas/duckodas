@@ -9,6 +9,10 @@ Welcome to my GitHub profile! Feel free to explore my repositories.
 [![GitHub followers](https://img.shields.io/github/followers/duckodas?label=Followers&style=social)](https://github.com/duckodas)
 [![GitHub stars](https://img.shields.io/github/stars/duckodas?label=Stars&style=social)](https://github.com/duckodas)
 
+## Notable Links
+
+- [Ko-Fi](https://ko-fi.com/duckodas)
+
 ## Notable Repositories
 
 - [DiscoBots](https://github.com/ProjectDiscord/discobots)
