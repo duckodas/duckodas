@@ -13,7 +13,6 @@ Hey there! I'm glad you stopped by. Take a look around and explore my repositori
 
 - [GitHub Sponsor](https://github.com/sponsors/duckodas)
 - [CoffeeBots](https://coffeebots.xyz)
-- [CoffeeBots Store](https://store.coffeebots.xyz)
 
 ## 🌟 Notable Repositories
 
