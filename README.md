@@ -11,7 +11,6 @@ Hey there! I'm glad you stopped by. Take a look around and explore my repositori
 
 ## 🔗 Notable Links
 
-- [GitHub Sponsor](https://github.com/sponsors/duckodas)
 - [CoffeeBots](https://coffeebots.xyz)
 
 ## 🌟 Notable Repositories
